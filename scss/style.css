@@ -1,3 +1,26 @@
 * {
-    box-sizing: border-box;
-}
+  margin: 0;
+  box-sizing: border-box; }
+
+header {
+  max-width: 100%;
+  position: fixed;
+  padding: 44px; }
+  header .logo {
+    font-size: 45.612px;
+    font-family: "Myriad Pro";
+    color: white;
+    line-height: 1.2;
+    text-align: left;
+    -moz-transform: matrix(1.0721609882, 0, 0, 1.0866177414, 0, 0);
+    -webkit-transform: matrix(1.0721609882, 0, 0, 1.0866177414, 0, 0);
+    -ms-transform: matrix(1.0721609882, 0, 0, 1.0866177414, 0, 0); }
+
+.Rectangle_3 {
+  background-image: -moz-linear-gradient(90deg, #eb402c 0%, #d90647 100%);
+  background-image: -webkit-linear-gradient(90deg, #eb402c 0%, #d90647 100%);
+  background-image: -ms-linear-gradient(90deg, #eb402c 0%, #d90647 100%);
+  max-width: 100%;
+  height: 950px; }
+
+/*# sourceMappingURL=style.css.map */
